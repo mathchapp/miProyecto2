@@ -1,1 +1,2 @@
-# miProyecto2
+# Instrucciones
+Hecho por Mathi Chaparro
